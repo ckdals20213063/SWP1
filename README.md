@@ -1,2 +1,2 @@
-20213063    Lee Changmin
+20213063 Lee Changmin
 Kookmin Univ. SW
